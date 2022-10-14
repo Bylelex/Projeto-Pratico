@@ -1,11 +1,3 @@
-# Projeto-Prático
-
-
-Created by: Alexsandro Da Silva
-Created time: October 5, 2022 11:47 PM
-Last edited by: Alexsandro Da Silva
-Last edited time: October 14, 2022 1:40 PM
-
 # **PROJETO PRÁTICO**
 
 **ANÁLISE DE DADOS**
